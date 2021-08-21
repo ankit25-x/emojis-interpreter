@@ -7,7 +7,11 @@ var emojiDictionary = {
   "😘": "blow a kiss",
   "💪": "flexed biceps",
   "😪": "sleepy",
-  "🥶": "freezing"
+  "😏": "smirking",
+  "🙄": "rolling eyes",
+  "🤔": "thinking",
+  "🤒": "sick",
+  "🥳": "partying",
 };
 var emojiList = Object.keys(emojiDictionary);
 
