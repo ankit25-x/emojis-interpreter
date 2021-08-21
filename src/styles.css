@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  width: 80%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  padding-bottom: 3rem;
+}
+
+.interpreter {
+  font-size: larger;
+  font-style: italic;
+  padding: 1rem;
+}
+
+.list-format {
+  list-style: none;
+  letter-spacing: 1rem;
+  font-size: 200%;
+}
